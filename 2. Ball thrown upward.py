@@ -11,6 +11,6 @@ v = float(input())
 
 g = 9.8
 
-h = float((v**2)/(2*g)) #defining max height h
+h = float((v**2)/(2*g)) #define max height h
 
-print("The maximum height is " + str(h) + " m")
+print("The maximum height is:", h, "m")
